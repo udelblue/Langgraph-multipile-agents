@@ -1,0 +1,9 @@
+langchain-core==0.2.43
+langgraph==0.4.2
+langchain-openai==0.3.16
+langchain-community==0.2.19
+
+beautifulsoup4==4.12.3
+termcolor==2.4.0
+streamlit==1.45.0
+python-dotenv==1.1.0
