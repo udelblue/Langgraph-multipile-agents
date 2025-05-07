@@ -1,8 +1,5 @@
 
-# Custom WebSearch Agent with LangGraph
-
-### Watch the Tutorial:
-[![Watch this video on YouTube](https://img.youtube.com/vi/R-o_a6dvzQM/0.jpg)](https://www.youtube.com/watch?v=R-o_a6dvzQM)
+# WebSearch Agent with LangGraph
 
 ### Agent Schema:
 ![Agent Schema](schema_diagram/LanGraph.png)
@@ -84,7 +81,5 @@ Then enter your query.
    ```
 Ollama [API documentation](https://github.com/ollama/ollama/blob/main/docs/api.md#list-local-models)
 
-#### Video on how I integrated the Ollama Server:
 
-[![Watch the video](https://img.youtube.com/vi/tVcOU054iWA/0.jpg)](https://youtu.be/tVcOU054iWA)
 
